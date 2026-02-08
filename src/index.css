@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 :root {
+=======
+/* :root {
+>>>>>>> 5d6a138c7efb1c3a8c0a87aca3e8bc76e9ef5c2b
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
@@ -28,8 +32,11 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+<<<<<<< HEAD
   
   justify-content: center;
+=======
+>>>>>>> 5d6a138c7efb1c3a8c0a87aca3e8bc76e9ef5c2b
 }
 
 h1 {
@@ -67,4 +74,8 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+<<<<<<< HEAD
 }
+=======
+} */
+>>>>>>> 5d6a138c7efb1c3a8c0a87aca3e8bc76e9ef5c2b

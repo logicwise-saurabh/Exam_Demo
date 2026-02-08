@@ -9,6 +9,10 @@ export default function Home() {
     const navigate = useNavigate()
     return (
         <div>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5d6a138c7efb1c3a8c0a87aca3e8bc76e9ef5c2b
             <Routes>
                 <Route path={"/StudentLoginCard"} element={<StudentLoginCard />} />
             </Routes>
@@ -16,7 +20,13 @@ export default function Home() {
 
             <button onClick={() => navigate("/StudentLoginCard")} >Student Login</button>
             <button onClick={() => navigate("/TeacherLoginCard")} >Teacher Login</button>
+<<<<<<< HEAD
            
+=======
+            {/* <button onClick={() => navigate(-1)}>Back</button> */}
+            {/* <StudentLoginCard />
+            <TeacherLoginCard /> */}
+>>>>>>> 5d6a138c7efb1c3a8c0a87aca3e8bc76e9ef5c2b
         </div>
     )
 }
